@@ -1,2 +1,4 @@
 # What-I-Learned-Today
-Everyday learnings
+A repo for jotting down the things we learn on a day-to-day basis
+
+1. [Bash](unix/bash.md)
